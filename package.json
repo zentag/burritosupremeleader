@@ -1,0 +1,24 @@
+{
+  "name": "burritosupremeleader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zentag/burritosupremeleader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zentag/burritosupremeleader/issues"
+  },
+  "homepage": "https://github.com/zentag/burritosupremeleader#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-limiter": "^1.6.1"
+  }
+}
